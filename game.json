@@ -15,7 +15,7 @@
     "rooms": {
       "START": {
         "name": "bed!",
-        "desc": "U slowlee opem yor eye. The light abov u is blinding. \nAs u ar eye becom used to the light you undrstand tat u ar not\n in yor crib...\n at homee...\n or in the warm of someone arms...\nu burst into teirs and screem as woud as u cn, but noo1 heirs u\nU are too yung 2 die and must fend ur waye bak homee",
+        "desc": "In this game you play as a baby with exceptional spelling abilities who was accidentally left in the IKEA Store.\nU slowlee opem yor eye. The light abov u is blinding. \nAs u ar eye becom used to the light you undrstand tat u ar not\nin yor crib...\nat homee...\nor in the warm of someone arms...\nu screem as woud as u cn, but noo1 heirs u\nU are too yung 2 die and must fend ur waye bak homee",
         "exits": [
           {
             "verb": "NORTH",

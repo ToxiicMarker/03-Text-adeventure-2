@@ -15,11 +15,11 @@
     "rooms": {
       "START": {
         "name": "bed!",
-        "desc": "U slowlee opem yor eye. The light abov u is blinding. \nAs u are eye becom used to the light you undrstand tat u ar not in yor crib...\n at homee...\n or in the warm of someone arms.",
+        "desc": "U slowlee opem yor eye. The light abov u is blinding. \nAs u are eye becom used to the light you undrstand tat u ar not\n in yor crib...\n at homee...\n or in the warm of someone arms.",
         "exits": [
           {
             "verb": "NORTH",
-            "target": "LOC2",
+            "target": "",
             "condition": ""
           },
           {

@@ -9,41 +9,68 @@
       { "v": "EAST",    "map": "EAST"  },
       { "v": "E",       "map": "EAST"  },
       { "v": "WEST",    "map": "WEST"  },
-      { "v": "W",       "map": "WEST"  }
+      { "v": "W",       "map": "WEST"  },
+      { "v": "U",       "map": "UP"    },
+      { "v": "UP",      "map": "UP"    },
+      { "v": "D",       "map": "DOWN"  },
+      { "v": "DOWN",    "map": "DOWN"  }
     ],
 
     "rooms": {
       "START": {
         "name": "bed!",
-        "desc": "In this game you play as a baby with exceptional spelling abilities who was accidentally left in the IKEA Store.\nU slowlee opem yor eye. The light abov u is blinding. \nAs u ar eye becom used to the light you undrstand tat u ar not\nin yor crib...\nat homee...\nor in the warm of someone arms...\nu screem as woud as u cn, but noo1 heirs u\nU are too yung 2 die and must fend ur waye bak homee",
+        "desc": "In this game you play as a toddler left in the IKEA Store.\nU slowlee opem yor eye. The light abov u is blinding. \nAs u ar eye becom used to the light you undrstand tat u ar not\nin yor crib...\nat homee...\nor in the warm of someone arms...\nu screem as woud as u cn, but noo1 heirs u\nU are too yung 2 die and must fend ur waye bak homee",
         "exits": [
           {
-            "verb": "NORTH",
-            "target": "",
+            "verb": "SOUTH",
+            "target": "F9D2",
             "condition": ""
           },
           {
-            "verb": "SOUTH",
-            "target": "LOC2",
+            "verb": "NORTH",
+            "target": "NoExit",
             "condition": ""
           },
           {
             "verb": "WEST",
-            "target": "LOC2",
+            "target": "NoExit",
             "condition": ""
           },
           {
             "verb": "EAST",
-            "target": "LOC2",
+            "target": "NoExit",
             "condition": ""
           }
         ],
         "inventory": []
       },
-      "LOC2": {
-        "name": "Location 2",
-        "desc": "Here is the second location.",
+      "F9D2": {
+        "name": "East Window",
+        "desc": "U cee the moon out the east window. \nit reminds u of homee.\n U see a supsiptous cleaning man cart to the south \nand the smooth tile flor to the west.",
         "exits": [
+          {
+            "verb": "SOUTH",
+            "target": "F9D2",
+            "condition": ""
+          },
+          {
+            "verb": "NORTH",
+            "target": "NoExit",
+            "condition": ""
+          },
+          {
+            "verb": "WEST",
+            "target": "NoExit",
+            "condition": ""
+          },
+          {
+            "verb": "EAST",
+            "target": "NoExit",
+            "condition": ""
+          }
+        ],
+        "inventory": []
+      },
         ],
         "inventory": []
       }

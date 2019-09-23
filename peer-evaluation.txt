@@ -1,0 +1,39 @@
+Name: Taiga Murata
+Date: 9/23/2019
+Project: P03-Text Adventure
+Peer's repository:  https://github.com/ToxiicMarker/03-Text-adeventure-2.git
+
+
+
+What is something you learned by reviewing your peer's project?
+
+ By looking at his json.file, I thought the idea that using the field IKEA was really interesting.
+ However, somehow the project did not run correctly, so I could not see what is going to be on in the game.
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+Like I said, the context of the project was really interesting. Using baby at IKEA sounds really crazy, but attractive
+ 
+
+What suggestions would you have for your peer to improve his/her code?
+At least I wanted to see what is going to happen at the project.  Getting error all the time is pretty sad so
+He better looked back what was on his project.
+ 
+
+What could have been clearer or better commented?
+I cannot comment on details actually because the coding is not running correctly.
+ 
+
+Was there anything in the code that was confusing to you? If so, what?
+He used invenory to his project, and I did not.  That's why inventory coding seemed pretty much confusing.
+ 
+
+Does the repository contain an appropriate LICENSE?
+ Yes it did contain appropriatly.
+
+What is something he/she could add to the README.md to make it more descriptive?
+He did not edit any of README, so if I could see his thought about this project, that would be nice.
+ 
+
+Pay a compliment to your peer based on the quality of his/her code.
+He couldn't run the project, but that means he tried much harder and complicated things.  I think that is amazing thing, and I hope he keeps trying as this project.
+
